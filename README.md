@@ -1,5 +1,5 @@
 <p align="center"><a href="http://www.upsara.com/"><img src="http://www.upsara.com/images/23wj_logofactory.jpg" border="0" alt="آپلود عکس و فایل رایگان و دائمی" /></a>
-<h1 align="left">`[⚓️](AdvanSource`, _bot with fast speed and high power)_</h1><p align=centert">  <p align="left">[![Join the chat at https://gitter.im/janlou/AdvanSource](https://badges.gitter.im/AdvanSource.svg)](https://gitter.im/janlou/AdvanSource?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<h1 align="left"><a href="http://www.upsara.com/viewer.php?file=xxzv_7.png"><img src="http://www.upsara.com/images/xxzv_7_thumb.png" border="0" alt="آپلود عکس و فایل رایگان و دائمی" /></a>`[Duble D Team] Tele Dragon`, _A bot with fast speed and high power_</h1><p align=centert">  <p align="left">[![Join the chat at https://gitter.im/janlou/AdvanSource](https://badges.gitter.im/AdvanSource.svg)](https://gitter.im/janlou/AdvanSource?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <h4> It is an anti spam bot (CLI) with fast speed and free for you! based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) and powered by [ADVAN™](http://telegram.me/advantm), this source have an original *Autolaunch* and *Steady script* for your ubuntu server.
 ***
 <p align="left">Creator: [[ JOIN! ]](https://telegram.me/advanbot)
