@@ -1,7 +1,7 @@
 <p align="center"><a href="http://www.upsara.com/"><img src="http://www.upsara.com/images/23wj_logofactory.jpg" border="0" alt="آپلود عکس و فایل رایگان و دائمی" /></a>
 <h1 align="left"><a href="http://www.upsara.com/viewer.php?file=xxzv_7.png"><img src="http://www.upsara.com/images/xxzv_7_thumb.png" border="0" alt="آپلود عکس و فایل رایگان و دائمی" /></a>[Duble D Team]`Tele Dragon`,A bot with fast speed/high power and Easy installation.
 <h4> This is a Cli/Icli/Self/Api bot with fast speed and high power for control,management,protect and etc your groups.This source is a mixture of all sources ever I've seen in Telegram space(About 30 sources).
-<h4> Powerd by [Double D™ led by `David Mi`](http://telegram.me/),This source have an original *Autolaunch* and *Steady script* for your ubuntu server.
+<h4> Powerd by [Double D™ lead by `David Mi`](http://telegram.me/),This source have an original *Autolaunch* and *Steady script* for your ubuntu server.
 <h4> تیم ما اولین و برترین تیم در زمینه ویرایش/هک و امنیت و... برای کسب اطلاعات بیشتر به کانال رسمی ما در تلگرام بپیوندید و یا صفحه ما را در اینستاگرام دنبال کنید
 *** 
 <p align="left">Creator: [[ JOIN! ]](https://telegram.me/)
