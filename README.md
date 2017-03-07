@@ -2,7 +2,7 @@
 <h1 align="left"><a href="http://www.upsara.com/viewer.php?file=xxzv_7.png"><img src="http://www.upsara.com/images/xxzv_7_thumb.png" border="0" alt="آپلود عکس و فایل رایگان و دائمی" /></a>[Duble D Team]`Tele Dragon`,A bot with fast speed and high power
 <h4> This is a Cli/Self/Api bot with fast speed and high power for control,management,protect and etc your groups.This source is a mixture of all sources ever I've seen in Telegram space(About 30 sources).
 <h4> Powerd by [Double D™ led by `David Mi`](http://telegram.me/),This source have an original *Autolaunch* and *Steady script* for your ubuntu server.
-<h4> تیم ما اولین و برترین تیم در زمینه هک/ویرایش/ساخت شماره مجازی و... برای کسب اطلاعات بیشتر به کانال رسمی ما در تلگرام بپیوندید و یا صفحه ما را در اینستاگرام دنبال کنید.
+<h4> تیم ما اولین و برترین تیم در زمینه هک/ویرایش/ساخت شماره مجازی و... برای کسب اطلاعات بیشتر به کانال رسمی ما در تلگرام بپیوندید و یا صفحه ما را در اینستاگرام دنبال کنید
 *** 
 <p align="left">Creator: [[ JOIN! ]](https://telegram.me/)
 <p align="left">Channel: [[ JOIN! ]](https://telegram.me/)
@@ -13,7 +13,7 @@
 ##Information:
 |Bot V | Name | Creator |
 |:--------|:----------|:------------|
-| <h4>`V 5` | Tele Dragon | Double D™ |
+| <h4>V 5 | Tele Dragon | Double D™ |
 
 ##Strong management:
 - <p align="left">Lock link
