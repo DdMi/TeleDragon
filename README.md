@@ -1,20 +1,19 @@
 <p align="center"><a href="http://www.upsara.com/"><img src="http://www.upsara.com/images/23wj_logofactory.jpg" border="0" alt="آپلود عکس و فایل رایگان و دائمی" /></a>
-<h1 align="left"><a href="http://www.upsara.com/viewer.php?file=xxzv_7.png"><img src="http://www.upsara.com/images/xxzv_7_thumb.png" border="0" alt="آپلود عکس و فایل رایگان و دائمی" /></a>`[Duble D Team] Tele Dragon`, _A bot with fast speed and high power_</h1><p align=centert">  <p align="left">[![Join the chat at https://gitter.im/janlou/AdvanSource](https://badges.gitter.im/AdvanSource.svg)](https://gitter.im/janlou/AdvanSource?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-<h4> It is an anti spam bot (CLI) with fast speed and free for you! based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) and powered by [ADVAN™](http://telegram.me/advantm), this source have an original *Autolaunch* and *Steady script* for your ubuntu server.
+<h1 align="left"><a href="http://www.upsara.com/viewer.php?file=xxzv_7.png"><img src="http://www.upsara.com/images/xxzv_7_thumb.png" border="0" alt="آپلود عکس و فایل رایگان و دائمی" /></a>[Duble D Team]`Tele Dragon`,A bot with fast speed and high power
+<h4> This is a Cli/Self/Api bot with fast speed and high power for control,management,protect and etc your groups.This source is a mixture of all sources ever I've seen in Telegram space(About 30 sources).
+<h4> Powerd by [Double D™ led by `David Mi`](http://telegram.me/),This source have an original *Autolaunch* and *Steady script* for your ubuntu server.
+<h4> تیم ما اولین و برترین تیم در زمینه هک/ویرایش/ساخت شماره مجازی و... برای کسب اطلاعات بیشتر به کانال رسمی ما در تلگرام بپیوندید و یا صفحه ما را در اینستاگرام دنبال کنید.
+*** 
+<p align="left">Creator: [[ JOIN! ]](https://telegram.me/)
+<p align="left">Channel: [[ JOIN! ]](https://telegram.me/)
+<p align="left">Support: [[ JOIN! ]](https://telegram.me/)
 ***
-<p align="left">Creator: [[ JOIN! ]](https://telegram.me/advanbot)
-<p align="left">Channel: [[ JOIN! ]](https://telegram.me/joinchat/CbNIGj07Z0YAy3CX5MRQaQ)
-<p align="left">Support: [[ JOIN! ]](https://telegram.me/joinchat/Bqy_YT_BXhTWrPiN97yvsg)
-***
-## You can create an account for free in:
-|Rank | Name | Adress |
+<h4> If you want free servers or If you want to buy a server(VPS) please communicate with our team(Double D™). 
+
+##Information:
+|Bot V | Name | Creator |
 |:--------|:----------|:------------|
-| <h4>`Rank` _(1)_ | Codenvy | [https://codenvy.com](https://codenvy.com) |
-| <h4>`Rank` _(2)_ | Codeanywhere | [https://codeanywhere.com](https://codeanywhere.com) |
-| <h4>`Rank` _(3)_ | Cloud9 | [https://C9.io](https://C9.io) |
-| <h4>`Rank` _(4)_ | Koding | [https://koding.com](https://koding.com) |
-| <h4>`Rank` _(5)_ | SourceLair | [https://www.sourcelair.com/home](https://www.sourcelair.com) |
-| <h4>`Rank` _(6)_ | Nitrous | [https://www.nitrous.io/](https://www.nitrous.io) |
+| <h4>`V 5` | Tele Dragon | Double D™ |
 
 ##Strong management:
 - <p align="left">Lock link
