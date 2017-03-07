@@ -61,11 +61,11 @@
 |:-----------------------|
 - <p align="left">Clone Source:
 ```sh
-git clone https://github.com/janlou/AdvanSource && cd AdvanSource
+git clone https://github.com/DdMi/TeleDragon.git
 ```
 - <p align="left">install bot:
 ```sh
-chmod 700 start.sh
+chmod +x start.sh
 ./start.sh install
 y
 ```
